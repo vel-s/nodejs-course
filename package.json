@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-course",
+  "version": "1.0.0",
+  "description": "Node modules studying",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitaliySazonov/nodejs-course.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "SV <v@mny.li>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitaliySazonov/nodejs-course/issues"
+  },
+  "homepage": "https://github.com/VitaliySazonov/nodejs-course#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
